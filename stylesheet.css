@@ -291,3 +291,13 @@ body {
     margin-right: 20px;
     font-size: 40px;
   }
+  .footer-para {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 15px;
+    margin-right: 10px;
+  }
+  .cright {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
